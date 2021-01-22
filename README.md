@@ -39,4 +39,4 @@ The required model will be 3D printed, the simulation is done on blender softwar
 #### Realistic-
 Sound knowledge in Arduino programming and 3D modeling is sufficient.
 #### Timeline-
-At present, TRL-6 has is achieved. As soon as I get the required materials, the TRL-7 will be produced. By the middle of September, I will be ready to implement it in my campus. And the product will be ready to launched by the end of September.
+At present, TRL-6 has is achieved. As soon as I get the required materials, the TRL-7 will be produced. 
